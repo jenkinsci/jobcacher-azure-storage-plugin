@@ -1,0 +1,6 @@
+unclassified:
+  globalItemStorage:
+    storage:
+      azure:
+        containerName: "the-container-name"
+        credentialsId: "the-credentials-id"
