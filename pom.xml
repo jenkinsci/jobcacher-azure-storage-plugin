@@ -44,7 +44,7 @@
       <dependency>
         <groupId>io.jenkins.tools.bom</groupId>
         <artifactId>bom-${jenkins.baseline}.x</artifactId>
-        <version>4545.v56392b_7ca_7b_a_</version>
+        <version>4570.v1b_c718dd3b_1e</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>
@@ -55,12 +55,10 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>jobcacher</artifactId>
-      <version>640.v424a_7cc1087a_</version>
     </dependency>
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>windows-azure-storage</artifactId>
-      <version>469.v75a_3db_ea_d2b_a_</version>
     </dependency>
 
     <dependency>
